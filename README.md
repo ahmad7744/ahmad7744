@@ -1,82 +1,76 @@
-👋 Hi, I'm Ahmad Aslam – Your Full Stack Booking & SaaS Specialist
+# 👋 Hi, I'm Ahmad Aslam – Your Full Stack Booking & SaaS Specialist  
 🎯 Building Scalable Web & Mobile Solutions with Modern Technologies
 
-Welcome to my GitHub profile! I'm a Full Stack Developer with 5+ years of experience crafting fast, reliable, and user-centric web and mobile applications. I specialize in building robust booking platforms, consultation systems, and SaaS tools using a high-performance tech stack.
+Welcome to my GitHub profile! I'm a **Full Stack Developer** with **5+ years** of experience crafting fast, reliable, and user-centric **web and mobile applications**. I specialize in robust **booking platforms**, **consultation systems**, and **SaaS tools** using a high-performance modern tech stack.
 
-💻 Tech Stack Expertise
-Frontend:
+---
 
-Next.js, React.js, Svelte 5
+## 💻 Tech Stack Expertise
 
-Tailwind CSS, Material UI
+**Frontend**  
+- Next.js, React.js, Svelte 5  
+- Tailwind CSS, Material UI  
+- Pixel-perfect UI from Figma designs  
 
-Responsive UI from Figma
+**Backend**  
+- Node.js, Express.js  
+- REST APIs & Microservices  
+- PostgreSQL, MongoDB  
 
-Backend:
+**Mobile**  
+- React Native (iOS + Android support)  
 
-Node.js, Express.js
+**Cloud & DevOps**  
+- AWS (EC2, S3, RDS, Lambda)  
+- Vercel (Frontend deployment)  
+- GitHub (Version control & CI/CD)
 
-REST APIs & Microservices
+---
 
-PostgreSQL, MongoDB
+## 🚀 What I Deliver
 
-Mobile:
+- ✅ Custom booking and consultation systems  
+- ✅ Admin dashboards with role-based access  
+- ✅ Scalable backend APIs and cloud architecture  
+- ✅ Mobile app development using React Native  
+- ✅ Payment integration with Stripe or PayPal  
+- ✅ Clean, maintainable, and well-documented code  
 
-React Native (iOS + Android)
+---
 
-Cloud & DevOps:
+## 🧠 How I Work
 
-AWS (EC2, S3, RDS, Lambda)
+- 🔧 Tailored solutions to fit your business needs  
+- ⏱️ Realistic deadlines and consistent updates  
+- 🔍 Transparent communication & collaboration  
+- 📁 GitHub-based code sharing with clear structure  
 
-Vercel (frontend hosting)
+---
 
-GitHub (CI/CD, version control)
+## 📌 Featured Projects
 
-🚀 What I Deliver
-✔️ Full-featured booking and consultation systems
-✔️ Admin dashboards, staff & client portals
-✔️ Secure authentication & role-based access
-✔️ Payment integration with Stripe or PayPal
-✔️ Scalable backend & cloud architecture
-✔️ Mobile apps using React Native
-✔️ Clean, modular code & API-first architecture
+- 🔹 Multi-role booking platform using Next.js, PostgreSQL, AWS  
+- 🔹 Mobile consultation app with React Native + Firebase backend  
+- 🔹 Admin dashboards built with Material UI + Tailwind  
+- 🔹 Real-time availability & scheduling APIs  
 
-🧠 How I Work
-💡 Tailored solutions for your business use case
+---
 
-⏱️ Realistic timelines and consistent updates
+## ❌ Not a Fit If...
 
-🔍 Transparent communication and scalable delivery
+- ❌ You require development outside JavaScript/TypeScript/Python stack  
+- ❌ You're only looking for the cheapest solution, not quality  
+- ❌ Your project includes gambling or adult content  
+- ❌ You don't value collaboration, transparency, or deadlines  
 
-💼 GitHub-based collaboration and clean documentation
+---
 
-📌 Highlight Projects
-Multi-role Booking System using Next.js, Express, PostgreSQL, and AWS
+## 📬 Let’s Connect
 
-Mobile Consultation App with React Native + Firebase backend
+If you're building a modern web or mobile product and need a reliable full stack partner, I’d love to help!
 
-Admin Dashboards with Material UI, Tailwind, and API integrations
+- 🚀 Launching a SaaS or booking system?  
+- 📲 Need a mobile app for iOS/Android?  
+- 🛠️ Want scalable backend + cloud setup?
 
-Figma to Frontend UIs — responsive and pixel-perfect builds
-
-❌ Not a Fit If...
-You need development outside JavaScript/TypeScript stack
-
-You are looking for the cheapest solution regardless of quality
-
-Your project involves gambling, adult content, or lacks ethical clarity
-
-You don’t value mutual respect, timelines, and feedback
-
-📬 Let’s Connect
-I'm always excited to collaborate on meaningful and scalable projects.
-🚀 Reach out if you want to:
-
-Build a custom web or mobile app
-
-Launch a booking or consultation platform
-
-Scale your system with a modern stack and clean architecture
-
-Let’s turn your idea into something remarkable!
-
+**Let’s build something extraordinary together!**
