@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ahmad Aslam – Your Full Stack Booking & SaaS Specialist  
+# 👋 Hi, I'm Ahmad Aslam – Your Full Stack SaaS Web & Mobile App Specialist  
 🎯 Building Scalable Web & Mobile Solutions with Modern Technologies
 
 Welcome to my GitHub profile! I'm a **Full Stack Developer** with **5+ years** of experience crafting fast, reliable, and user-centric **web and mobile applications**. I specialize in robust **booking platforms**, **consultation systems**, and **SaaS tools** using a high-performance modern tech stack.
